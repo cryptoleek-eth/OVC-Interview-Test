@@ -1,4 +1,22 @@
-# OVC-Interview-Test
+### Final Result
+https://codesandbox.io/s/competent-http-ls1ji
+
+### Done
+ - spend some time to create a full redux redux-thunk enabled projects
+ - add some tests
+ - write three components
+
+### Todo
+ - add some styles
+ - for large projects put each components into its own folders
+ - add more tests
+ - add annotations
+
+
+Happy Coding.:-)
+
+
+# OVC-Interview-Test Descriptions as below
 
 ### Instructions
 
